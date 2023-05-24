@@ -1,5 +1,8 @@
 # IntruderESP Dll Cheat
 
+# Antivirus- 
+## If the injector crashes after pressing Refresh Button, add it to the exclusions in the antivirus
+
 <H2>Instructions</H2>
 <table>
   <tr>
